@@ -1,6 +1,10 @@
 body {
   background-color: beige; }
-  body h1 {
-    color: aliceblue; }
+  body nav ul li {
+    display: inline-block; }
+  body .button-example p {
+    display: none; }
+  body .button-example .visible {
+    display: block; }
 
 /*# sourceMappingURL=main.css.map */

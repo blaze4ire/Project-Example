@@ -1,6 +1,21 @@
 body {
     background-color: beige;
-    h1 {
-        color: aliceblue;
+    nav{
+        ul{
+            li{
+                display:inline-block;
+            }
+        }
+    }
+    .button-example{
+        button{
+            
+        }
+        p{
+            display: none;
+        }
+        .visible{
+            display: block;
+        }
     }
 }
